@@ -76,3 +76,5 @@ are trying to solve whereas section 4 provides our solution and
 implementation. Section 5 describes all the experiments we
 performed using different review datasets and input texts. Finally,
 we conclude in section 6.
+
+For the whole report open the file report.pdf 
